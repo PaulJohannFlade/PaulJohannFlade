@@ -9,6 +9,7 @@
 > english
 > a little french
 
+**Qualifications:**
 > I am a IT specialist for system integration and a media designer for digital and print media specializing in media design 
 
 > *in progress...*
