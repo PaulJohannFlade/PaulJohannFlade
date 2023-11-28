@@ -5,15 +5,15 @@
 ![Portrait von Paul Johann Flade](/PFS.jpg)
 
 **languages:**
-> Deutsch (main language)
+> german (main language)
 > english
-> un petit peu de français
+> a little french
 
 > I am a IT specialist for system integration
 > media designer for digital and print media specializing in media design 
 
 > *in progress...*
->>  *becamming a web developer*
+>>  *becoming a web developer*
 
 ---
 
