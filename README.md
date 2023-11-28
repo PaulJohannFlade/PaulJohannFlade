@@ -1,10 +1,10 @@
-### Hi, I am Paul Johann Flade👋
+# **Hi, I am Paul Johann Flade**👋
 ---
 
-I am a IT specialist for system integration
-media designer for digital and print media specializing in media design 
+- I am a IT specialist for system integration
+- media designer for digital and print media specializing in media design 
 
-comming soon... web developer.
+- *comming soon... web developer*
 
 ---
 
