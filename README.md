@@ -2,7 +2,7 @@
 ---
 > I am 38 Years old an living in Dresden.
 
-<img src="PFS.jpg" width="150">
+<img src="PFS.jpg" width="200">
 
 ![Portrait von Paul Johann Flade](/PFS.jpg)
 
