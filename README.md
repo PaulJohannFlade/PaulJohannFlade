@@ -9,8 +9,7 @@
 > english
 > a little french
 
-> I am a IT specialist for system integration
-> media designer for digital and print media specializing in media design 
+> I am a IT specialist for system integration and a media designer for digital and print media specializing in media design 
 
 > *in progress...*
 >>  *becoming a web developer*
