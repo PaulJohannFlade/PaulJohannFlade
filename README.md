@@ -4,7 +4,6 @@
 
 <img src="PFS.jpg" width="200">
 
-![Portrait von Paul Johann Flade](/PFS.jpg)
 
 **languages:**
 > german (main language)
