@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi, I am Paul Johann Flade👋
+---
 
-<!--
-**PaulJohannFlade/PaulJohannFlade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a IT specialist for system integration
+media designer for digital and print media specializing in media design 
 
-Here are some ideas to get you started:
+comming soon... web developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+---
+
+- 🔭 I’m currently working on my Career as Web Developer.
+- 🌱 I’m currently learning HTML, CSS, JavaScript, React, Git, GitHub.
+- 📫 How to reach me: paul-johann@flade-privat.de
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I have a heart for Trashpandas.
+
