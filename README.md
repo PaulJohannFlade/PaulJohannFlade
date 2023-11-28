@@ -1,7 +1,8 @@
 # **Hi, I am Paul Johann Flade**👋
 ---
-> I am 38 Years old
-> I am from Dresden
+> I am 38 Years old an living in Dresden.
+
+![Portrait von Paul Johann Flade](Paul Foto Seriös.jpg)
 
 **languages:**
 > Deutsch (main language)
